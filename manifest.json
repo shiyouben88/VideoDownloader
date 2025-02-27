@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "抖音视频下载助手",
+  "name": "短视频下载助手",
   "version": "1.0",
-  "description": "一键下载抖音视频",
+  "description": "支持抖音、TikTok等平台视频下载",
   "permissions": [
     "tabs",
     "activeTab",
@@ -10,17 +10,21 @@
     "downloads"
   ],
   "host_permissions": [
-    "*://*.douyin.com/*"
+    "*://*.douyin.com/*",
+    "*://*.tiktok.com/*"
   ],
   "action": {
-    "default_title": "下载抖音视频"
+    "default_title": "下载视频"
   },
   "background": {
     "service_worker": "background.js"
   },
   "content_scripts": [
     {
-      "matches": ["*://*.douyin.com/*"],
+      "matches": [
+        "*://*.douyin.com/*",
+        "*://*.tiktok.com/*"
+      ],
       "js": ["content.js"]
     }
   ]
