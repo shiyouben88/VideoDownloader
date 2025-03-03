@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "ビデオダウンローダー",
+    "description": "拡張機能の名前"
+  },
+  "appDesc": {
+    "message": "Douyin、TikTokなどのプラットフォームからビデオをダウンロード",
+    "description": "拡張機能の説明"
+  },
+  "downloadVideo": {
+    "message": "ビデオをダウンロード",
+    "description": "ダウンロードボタンのテキスト"
+  },
+  "downloadError": {
+    "message": "ビデオのダウンロードリンクが見つかりませんでした",
+    "description": "ダウンロード失敗時のエラーメッセージ"
+  },
+  "retryDownload": {
+    "message": "新しいタブでダウンロードを再試行中",
+    "description": "新しいタブでダウンロードを再試行する際のメッセージ"
+  }
+}

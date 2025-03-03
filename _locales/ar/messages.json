@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "منزل الفيديو",
+    "description": "اسم الإضافة"
+  },
+  "appDesc": {
+    "message": "تنزيل مقاطع الفيديو من Douyin وTikTok والمنصات الأخرى",
+    "description": "وصف الإضافة"
+  },
+  "downloadVideo": {
+    "message": "تنزيل الفيديو",
+    "description": "نص زر التنزيل"
+  },
+  "downloadError": {
+    "message": "فشل في العثور على رابط تنزيل الفيديو",
+    "description": "رسالة الخطأ عند فشل التنزيل"
+  },
+  "retryDownload": {
+    "message": "إعادة المحاولة في علامة تبويب جديدة",
+    "description": "رسالة عند إعادة المحاولة في علامة تبويب جديدة"
+  }
+}

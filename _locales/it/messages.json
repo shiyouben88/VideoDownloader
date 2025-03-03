@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "Scaricatore di Video",
+    "description": "Il nome dell'estensione"
+  },
+  "appDesc": {
+    "message": "Scarica video da Douyin, TikTok e altre piattaforme",
+    "description": "La descrizione dell'estensione"
+  },
+  "downloadVideo": {
+    "message": "Scarica Video",
+    "description": "Testo del pulsante per scaricare il video"
+  },
+  "downloadError": {
+    "message": "Impossibile trovare il link per scaricare il video",
+    "description": "Messaggio di errore quando il download fallisce"
+  },
+  "retryDownload": {
+    "message": "Nuovo tentativo di download in una nuova scheda",
+    "description": "Messaggio durante il nuovo tentativo di download in una nuova scheda"
+  }
+}

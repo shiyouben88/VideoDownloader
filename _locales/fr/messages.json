@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "Téléchargeur de Vidéos",
+    "description": "Le nom de l'extension"
+  },
+  "appDesc": {
+    "message": "Téléchargez des vidéos depuis Douyin, TikTok et d'autres plateformes",
+    "description": "La description de l'extension"
+  },
+  "downloadVideo": {
+    "message": "Télécharger la Vidéo",
+    "description": "Texte du bouton pour télécharger la vidéo"
+  },
+  "downloadError": {
+    "message": "Impossible de trouver le lien de téléchargement de la vidéo",
+    "description": "Message d'erreur lors de l'échec du téléchargement"
+  },
+  "retryDownload": {
+    "message": "Nouvelle tentative de téléchargement dans un nouvel onglet",
+    "description": "Message lors de la nouvelle tentative de téléchargement dans un nouvel onglet"
+  }
+}

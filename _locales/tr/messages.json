@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "Video İndirici",
+    "description": "Uzantının adı"
+  },
+  "appDesc": {
+    "message": "Douyin, TikTok ve diğer platformlardan video indirin",
+    "description": "Uzantının açıklaması"
+  },
+  "downloadVideo": {
+    "message": "Video İndir",
+    "description": "Video indirme düğmesi metni"
+  },
+  "downloadError": {
+    "message": "Video indirme bağlantısı bulunamadı",
+    "description": "İndirme başarısız olduğunda hata mesajı"
+  },
+  "retryDownload": {
+    "message": "Yeni sekmede indirme yeniden deneniyor",
+    "description": "Yeni sekmede indirme yeniden denenirken gösterilen mesaj"
+  }
+}

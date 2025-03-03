@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "Video Downloader",
+    "description": "Der Name der Erweiterung"
+  },
+  "appDesc": {
+    "message": "Videos von Douyin, TikTok und anderen Plattformen herunterladen",
+    "description": "Die Beschreibung der Erweiterung"
+  },
+  "downloadVideo": {
+    "message": "Video herunterladen",
+    "description": "Schaltflächentext zum Herunterladen des Videos"
+  },
+  "downloadError": {
+    "message": "Video-Download-Link konnte nicht gefunden werden",
+    "description": "Fehlermeldung beim Fehlschlagen des Downloads"
+  },
+  "retryDownload": {
+    "message": "Wiederhole Download in neuem Tab",
+    "description": "Meldung beim erneuten Download in einem neuen Tab"
+  }
+}

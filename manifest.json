@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "短视频下载助手",
-  "version": "1.0",
-  "description": "支持抖音、TikTok等平台视频下载",
+  "name": "__MSG_appName__",
+  "version": "1.1",
+  "description": "__MSG_appDesc__",
+  "default_locale": "en",
   "permissions": [
     "tabs",
     "activeTab",
@@ -28,4 +29,4 @@
       "js": ["content.js"]
     }
   ]
-} 
+}

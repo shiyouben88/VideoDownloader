@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "Trình Tải Video",
+    "description": "Tên tiện ích mở rộng"
+  },
+  "appDesc": {
+    "message": "Tải video từ Douyin, TikTok và các nền tảng khác",
+    "description": "Mô tả tiện ích mở rộng"
+  },
+  "downloadVideo": {
+    "message": "Tải Video",
+    "description": "Văn bản nút tải video"
+  },
+  "downloadError": {
+    "message": "Không tìm thấy liên kết tải video",
+    "description": "Thông báo lỗi khi tải không thành công"
+  },
+  "retryDownload": {
+    "message": "Đang thử tải lại trong tab mới",
+    "description": "Thông báo khi thử tải lại trong tab mới"
+  }
+}

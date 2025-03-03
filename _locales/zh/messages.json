@@ -1,0 +1,22 @@
+{
+  "appName": {
+    "message": "短视频下载助手",
+    "description": "扩展名称"
+  },
+  "appDesc": {
+    "message": "支持抖音、TikTok等平台视频下载",
+    "description": "扩展描述"
+  },
+  "downloadVideo": {
+    "message": "下载视频",
+    "description": "下载按钮文本"
+  },
+  "downloadError": {
+    "message": "未找到视频下载链接",
+    "description": "下载失败时的错误信息"
+  },
+  "retryDownload": {
+    "message": "正在新标签页中重试下载",
+    "description": "在新标签页重试下载时的提示信息"
+  }
+}
